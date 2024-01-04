@@ -18,15 +18,16 @@
 
 <img align="right" height="270px" alt="GIF" src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif?raw=true" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/thoughtlessnerd]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+### I am a 2nd year student pursuing Btech.
+- 🔭 **Current Project:** Working on my Portfolio Website :grin:
+- 🌱 **Learning:** MERN Stack Development.
+- 👯 **Collaboration:** Looking to collaborate with other Developers :wink:
+- 🥅 **2024 Goals:** Contribute to Open Source projects and work with a few tech stacks.
+- 💬 **Ask Me About:** Anything! I am happy to help :smile:
+- 📬 **How to Reach Me:** [Let's get in touch!](https://www.linkedin.com/in/thoughtlessnerd)
+- 🧗 **Philosophy:** embracing challenges as opportunities for growth.
+- ⚡ **Fun Fact:** I love competitive programming too :raised_hands:
+
 
 <br>
 
