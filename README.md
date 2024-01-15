@@ -87,7 +87,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-University exams :(
+Everything from learning React in deep to some CP
 ```
 <!--END_SECTION:waka-->
 
