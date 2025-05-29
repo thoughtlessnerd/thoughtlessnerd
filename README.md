@@ -18,14 +18,14 @@
 
 <img align="right" height="270px" alt="GIF" src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif?raw=true" />
 
-### I am a 2nd year student pursuing Btech.
-- 🔭 **Current Project:** Working on my Portfolio Website :grin:
-- 🌱 **Learning:** MERN Stack Development.
+### I am a 3rd year student pursuing Btech.
+- 🔭 **Current Project:** Working on a BackTester :grin:
+- 🌱 **Learning:** Machine Learning.
 - 👯 **Collaboration:** Looking to collaborate with other Developers :wink:
-- 🥅 **2024 Goals:** Contribute to Open Source projects and work with a few tech stacks.
+- 🥅 **2025 Goals:** Step into Quant/HFT firms.
 - 💬 **Ask Me About:** Anything! I am happy to help :smile:
 - 📬 **How to Reach Me:** [Let's get in touch!](https://www.linkedin.com/in/thoughtlessnerd)
-- 🧗 **Philosophy:** embracing challenges as opportunities for growth.
+- 🧗 **Philosophy:** The magic you're looking for is in the thing you're avoiding.
 - ⚡ **Fun Fact:** I love competitive programming too :raised_hands:
 
 
@@ -87,7 +87,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Everything from learning React in deep to some CP
+Making UIs in ImGui for my Backtester
 ```
 <!--END_SECTION:waka-->
 
